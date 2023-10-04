@@ -1,4 +1,6 @@
-{
-    "idPerfil":"ADM",
-    "perfil":"Administrador"
-}
+roles: [
+    {
+        "idPerfil":"ADM",
+        "perfil":"Administrador"
+    }
+]
