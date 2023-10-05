@@ -1,10 +1,6 @@
 [
     {
-        "idPerfil":"ADM",
-        "perfil":"Administrador"
-    },
-    {
-        "idPerfil":"JT",
-        "perfil":"Jefe Trabajo"
+        "idPerfil":"ENC",
+        "perfil":"Encargado"
     }
 ]
