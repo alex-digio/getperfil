@@ -2,5 +2,13 @@
     {
         "idPerfil":"ENC",
         "perfil":"Encargado"
+    },
+    {
+        "idPerfil":"JT",
+        "perfil":"Jefe Trabajo"
+    },
+    {
+        "idPerfil": "JCP",
+        "perfil": "Jefe de CP"
     }
 ]
