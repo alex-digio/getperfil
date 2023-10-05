@@ -4,6 +4,10 @@
         "perfil":"Encargado"
     },
     {
+        "idPerfil": "JT",
+        "perfil": "Jefe de Trabajo"
+    },
+    {
         "idPerfil": "JCP",
         "perfil": "Jefe de CP"
     }
