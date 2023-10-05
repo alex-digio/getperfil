@@ -1,10 +1,5 @@
-roles: [
-    {
-        "idPerfil":"ADM",
-        "perfil":"Administrador"
-    },
-    {
+  {
         "idPerfil":"JT",
         "perfil":"Jefe Trabajo"
     }
-]
+
